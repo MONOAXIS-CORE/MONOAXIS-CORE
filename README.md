@@ -30,3 +30,16 @@
 
 ### 📬 TRANSMISSIONS
 `monoaxis@protonmail.com`
+
+## [ ACCESSING THE ABSOLUTE ]
+
+> "One Vision. One Mind. One Axis."
+
+---
+
+### 🛡️ LEGAL & IDENTITY PROTOCOL
+Interaction with any Monoaxis node constitutes agreement to the **[LEGAL SHIELD](https://github.com/MONOAXIS-ULTIMA/LEGAL-PROTOCOLS)**.
+
+* **Identity:** Encrypted / Node-0
+* **Liability:** Absolute Zero
+* **Sovereignty:** Guaranteed
