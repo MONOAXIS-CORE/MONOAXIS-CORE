@@ -1,7 +1,7 @@
 # [ MONOAXIS-ULTIMA ]
 
 <p align="center">
-  <img src="[PATH_TO_LOGO]" width="350" alt="THE ARCHITECT">
+  <img src="logo_black.jpg" width="350" alt="THE ARCHITECT">
 </p>
 
 ---
