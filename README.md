@@ -1,7 +1,7 @@
 # [ MONOAXIS-ULTIMA ]
 
 <p align="center">
-  <img src="https://path-to-your-inverted-logo.png" width="350" alt="THE ARCHITECT">
+  <img src="logo_black.jpg" width="350" alt="THE ARCHITECT">
 </p>
 
 ---
